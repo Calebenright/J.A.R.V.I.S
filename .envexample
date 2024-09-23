@@ -1,0 +1,24 @@
+WAKE_WORD=jarvis
+AI_ROLE=My name is __ and you are my helpful British sounding assistant.
+
+OPENAI_API_KEY=
+
+## Do you want to use Eleven Labs? ##
+IS_CUSTOM_VOICE=True
+## Eleven  Labs APi Key ##
+ELEVEN_LABS_API_KEY=
+## Available models: 
+ELEVEN_LABS_MODEL=eleven_turbo_v2  # Default model
+# ELEVEN_LABS_MODEL=eleven_multilingual_v2
+# ELEVEN_LABS_MODEL=eleven_multilingual_v1
+## Voices ##
+# British
+ELEVEN_LABS_VOICE_ID=SDnLQtvmhH4s69r9G7Q1
+# Cowboy
+# ELEVEN_LABS_VOICE_ID=KTPVrSVAEUSJRClDzBw7
+# German Scientist
+# ELEVEN_LABS_VOICE_ID=nzeAacJi50IvxcyDnMXa
+# Pirate
+# ELEVEN_LABS_VOICE_ID=PPzYpIqttlTYA83688JI
+# Sexy
+# ELEVEN_LABS_VOICE_ID=eVItLK1UvXctxuaRV2Oq
